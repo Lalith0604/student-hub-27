@@ -1,7 +1,9 @@
 ## Project info
 
 Name: M LALITH KUMAR
+
 Email : lalithkumar.m01@gmail.com
+
 Phone no: 7680050845
 
 **URL**: https://studentsmangement.netlify.app/
