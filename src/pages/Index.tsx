@@ -61,7 +61,7 @@ const Index = () => {
         {/* Header */}
         <div className="sm:flex sm:items-center sm:justify-between">
           <div>
-            <h1 className="text-2xl font-bold text-foreground tracking-tight">Student Manager</h1>
+            <h1 className="text-2xl font-bold text-foreground tracking-tight">Student Management System</h1>
             <p className="mt-1 text-sm text-muted-foreground">Manage your student records efficiently.</p>
           </div>
           <button
