@@ -1,4 +1,4 @@
-## Project info
+## Student Management System Frontend CURD
 
 Name: M LALITH KUMAR
 
